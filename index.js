@@ -152,6 +152,7 @@ slackAPI.events = {
     team_pref_change: 'team_pref_change',
     team_rename: 'team_rename',
     team_domain_change: 'team_domain_change',
+    team_migration_started: 'team_migration_started',
     email_domain_changed: 'email_domain_changed',
     bot_added: 'bot_added',
     bot_changed: 'bot_changed',
